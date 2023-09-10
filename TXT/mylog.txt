@@ -11,5 +11,6 @@ ZCZC W01 180 L11 Doing assignment week 1
 ZCZC W01 100 L02 Class 4 week 4
 ZCZC W01 60 L05 Quiz preparation and week 01 quiz
 ZCZC W01 60 L06 (accumulative) learn vim and linux by google sana google sini
+ZCZC W01 20 L11 Fix ssh (accidentally use cbkadal)
 ZCZC W01 10 L04 Update my github page (adding index and links)
 ZCZC W01 10 L41 Update mylog.txt for week 01
