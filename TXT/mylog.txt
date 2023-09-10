@@ -3,9 +3,13 @@
 ZCZC W00 100 L02 Class 1 week 0
 ZCZC W00 10 L03 Setup github repo (initial commit)
 ZCZC W00 100 L02 Class 2 week 0
-ZCZC W00 60 L05 Quiz preparation and week 00 quiz 01
+ZCZC W00 60 L05 Quiz preparation and week 00 quiz
 ZCZC W00 5 L04 Setup github page
 ZCZC W00 120 L10 (accumulative) Do reading assignment chap 1, 2 (from https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 ZCZC W01 100 LO2 Class 3 week 1
 ZCZC W01 180 L11 Doing assignment week 1
 ZCZC W01 100 L02 Class 4 week 4
+ZCZC W01 60 L05 Quiz preparation and week 01 quiz
+ZCZC W01 60 L06 (accumulative) learn vim and linux by google sana google sini
+ZCZC W01 10 L04 Update my github page (adding index and links)
+ZCZC W01 10 L41 Update mylog.txt for week 01
