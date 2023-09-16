@@ -14,3 +14,9 @@ ZCZC W01 60 L06 (accumulative) learn vim and linux by google sana google sini
 ZCZC W01 20 L11 Fix ssh (accidentally use cbkadal)
 ZCZC W01 10 L04 Update my github page (adding index and links)
 ZCZC W01 10 L41 Update mylog.txt for week 01
+ZCZC W02 100 L02 Class 5 week 2
+ZCZC W02 150 L12 Doing assignment week 2
+ZCZC W02 100 L02 Class 6 week 2
+ZCZC W02 20 L06 (accumulative) review vim syntax
+ZCZC W02 60 L05 Quiz preparation (reading Silberschatz and do previous year excescise)
+zczc W02 10 l41 Update mylog.txt for week02
