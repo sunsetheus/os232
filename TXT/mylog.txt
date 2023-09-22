@@ -24,3 +24,4 @@ ZCZC W03 100 Class 7 week 3
 ZCZC W03 130 L13 Doing assignment week 3
 ZCZC W03 60 L05 Quiz preparation and do google sana google sini
 ZCZC W03 10 L41 Update mylog.txt for week03
+ZCZC W03 60 L05 Finishing 3 pop quizes
