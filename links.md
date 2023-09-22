@@ -9,3 +9,5 @@ permalink: LINKS/
 4. [Vim tutorial for beginners - 1 hour](https://youtu.be/RZ4p-saaQkc?si=wZKoNj16xK5XB72F) --- This video explains how to use vim from the basics
 5. [Slide Silberschatz](https://www.os-book.com/OS10/slide-dir/)
 6. [Linux tutorial for beginners - 1 hour](https://youtu.be/ROjZy1WbCIA?si=odM5AoPH7ijBS-qx)
+7. [Operating systems - virtual disk explaination](https://youtu.be/eK0Jw9P2JIs?si=azOxclQVeKKDf-4f)
+8. [Formating and mounting storage explaination](https://youtu.be/2Z6ouBYfZr8?si=HosbFCNEvTMhC29N)
