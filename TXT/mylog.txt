@@ -6,7 +6,7 @@ ZCZC W00 100 L02 Class 2 week 0
 ZCZC W00 60 L05 Quiz preparation and week 00 quiz
 ZCZC W00 5 L04 Setup github page
 ZCZC W00 120 L10 (accumulative) Do reading assignment chap 1, 2 (from https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
-ZCZC W01 100 LO2 Class 3 week 1
+ZCZC W01 100 L02 Class 3 week 1
 ZCZC W01 180 L11 Doing assignment week 1
 ZCZC W01 100 L02 Class 4 week 1
 ZCZC W01 60 L05 Quiz preparation and week 01 quiz
@@ -19,9 +19,12 @@ ZCZC W02 150 L12 Doing assignment week 2
 ZCZC W02 100 L02 Class 6 week 2
 ZCZC W02 20 L06 (accumulative) review vim syntax
 ZCZC W02 60 L05 Quiz preparation (reading Silberschatz and do previous year excescise)
-ZCZC W02 10 l41 Update mylog.txt for week02
-ZCZC W03 100 Class 7 week 3
+ZCZC W02 10 L41 Update mylog.txt for week02
+ZCZC W03 100 L02 Class 7 week 3
 ZCZC W03 130 L13 Doing assignment week 3
 ZCZC W03 60 L05 Quiz preparation and do google sana google sini
 ZCZC W03 10 L41 Update mylog.txt for week03
 ZCZC W03 60 L05 Finishing 3 pop quizes
+ZCZC W04 100 L02 Class 9 week 4
+ZCZC W04 30 L14 Doing assingment week 4
+ZCZC W04 60 L06 Reading OS Book (Silberschatz)

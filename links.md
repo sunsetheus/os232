@@ -11,3 +11,4 @@ permalink: LINKS/
 6. [Linux tutorial for beginners - 1 hour](https://youtu.be/ROjZy1WbCIA?si=odM5AoPH7ijBS-qx)
 7. [Operating systems - virtual disk explaination](https://youtu.be/eK0Jw9P2JIs?si=azOxclQVeKKDf-4f)
 8. [Formating and mounting storage explaination](https://youtu.be/2Z6ouBYfZr8?si=HosbFCNEvTMhC29N)
+9. [Concept of virtual memory](https://youtu.be/8yO2FBBfaB0?si=nl8qhgndvwsCAbzZ) --- Other resource for chapter 10: Virtual Memory
