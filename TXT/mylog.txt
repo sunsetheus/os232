@@ -28,3 +28,4 @@ ZCZC W03 60 L05 Finishing 3 pop quizes
 ZCZC W04 100 L02 Class 9 week 4
 ZCZC W04 30 L14 Doing assingment week 4
 ZCZC W04 60 L06 Reading OS Book (Silberschatz)
+ZCZC W04 60 Finishing week 4 pop quizes (accumulative)
