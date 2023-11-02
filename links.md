@@ -13,3 +13,5 @@ permalink: LINKS/
 8. [Formating and mounting storage explaination](https://youtu.be/2Z6ouBYfZr8?si=HosbFCNEvTMhC29N)
 9. [Concept of virtual memory](https://youtu.be/8yO2FBBfaB0?si=nl8qhgndvwsCAbzZ) --- Other resource for chapter 10: Virtual Memory
 10. [Basic C programming for beginners](https://youtu.be/KJgsSFOSQv0?si=m65jGPRIUURjbOCB) --- Learn C from scratch
+11. [C in 100 seconds](https://youtu.be/U3aXWizDbQ4?si=g9aTtLCyg0wZiz5J) --- Get a fast description of C
+12. [Neso Academy: Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Playlist of operating system from neso academy

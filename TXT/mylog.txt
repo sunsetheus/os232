@@ -32,4 +32,8 @@ ZCZC W04 60 L05 Finishing week 4 pop quizes (accumulative)
 ZCZC W05 100 L02 Class 11 week 5
 ZCZC W05 60 L05 Quiz preparation
 ZCZC W05 15 L05 Quiz 4
-ZCZC W05 100 Doing assignment week 5
+ZCZC W05 100 L15 Doing assignment week 5
+ZCZC W06 100 L05 Class
+ZCZC W06 60 L05 Quiz preparation
+ZCZC W06 120 L16 Doing assignment week 6
+ZCZC W06 100 L05 Finishing 3 pop quizes for week 6
