@@ -15,3 +15,5 @@ permalink: LINKS/
 10. [Basic C programming for beginners](https://youtu.be/KJgsSFOSQv0?si=m65jGPRIUURjbOCB) --- Learn C from scratch
 11. [C in 100 seconds](https://youtu.be/U3aXWizDbQ4?si=g9aTtLCyg0wZiz5J) --- Get a fast description of C
 12. [Neso Academy: Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Playlist of operating system from neso academy
+13. [Deadlock for operating systems from geeks for geeks](https://youtu.be/onkWXaXAgbY?si=EdWIApSsN1nLNcjn)
+14. [Deadlock for operating systems from simple snippets](https://youtu.be/UVo9mGARkhQ?si=ooX6UyAIRI0glRTx)

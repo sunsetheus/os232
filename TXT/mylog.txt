@@ -37,3 +37,7 @@ ZCZC W06 100 L05 Class
 ZCZC W06 60 L05 Quiz preparation
 ZCZC W06 120 L16 Doing assignment week 6
 ZCZC W06 100 L05 Finishing 3 pop quizes for week 6
+ZCZC W07 150 L17 Doing assignment week 7
+ZCZC W07 90 L05 Quiz preparation and quiz
+ZCZC W07 60 L06 Reading OS book (Silberschatz)
+ZCZC W07 60 L05 Doing pop quiz
