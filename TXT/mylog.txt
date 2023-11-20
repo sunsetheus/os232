@@ -41,3 +41,6 @@ ZCZC W07 150 L17 Doing assignment week 7
 ZCZC W07 90 L05 Quiz preparation and quiz
 ZCZC W07 60 L06 Reading OS book (Silberschatz)
 ZCZC W07 60 L05 Doing pop quiz
+ZCZC W08 400 L18 Doing assignment week 8 (lfs)
+ZCZC W08 60 L05 Quiz preparation
+ZCZC W08 70 L06 Reading OS book (Silberschatz)

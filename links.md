@@ -17,3 +17,5 @@ permalink: LINKS/
 12. [Neso Academy: Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Playlist of operating system from neso academy
 13. [Deadlock for operating systems from geeks for geeks](https://youtu.be/onkWXaXAgbY?si=EdWIApSsN1nLNcjn)
 14. [Deadlock for operating systems from simple snippets](https://youtu.be/UVo9mGARkhQ?si=ooX6UyAIRI0glRTx)
+15. [Linux from scratch tutorial by text](https://www.linuxfromscratch.org/lfs/view/12.0/part3.html)
+16. [Linux from scratch tutorial by video](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
