@@ -44,3 +44,6 @@ ZCZC W07 60 L05 Doing pop quiz
 ZCZC W08 400 L18 Doing assignment week 8 (lfs)
 ZCZC W08 60 L05 Quiz preparation
 ZCZC W08 70 L06 Reading OS book (Silberschatz)
+ZCZC W09 450 L19 Doing assignment week 9
+ZCZC W09 120 L05 Quiz and quiz preparation
+ZCZC W09 60 L05 Pop quiz week 9

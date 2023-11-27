@@ -19,3 +19,5 @@ permalink: LINKS/
 14. [Deadlock for operating systems from simple snippets](https://youtu.be/UVo9mGARkhQ?si=ooX6UyAIRI0glRTx)
 15. [Linux from scratch tutorial by text](https://www.linuxfromscratch.org/lfs/view/12.0/part3.html)
 16. [Linux from scratch tutorial by video](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+17. [Host linux configuration for LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2)
+18. [LFS for linux 12.3](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)
